@@ -10,7 +10,7 @@ function Music() {
 
     const getTracks = async() =>{
         let data = await fetch(
-          `https://v1.nocodeapi.com/rojo/spotify/heLuDCbMtcYkIPps/search?q=${Keyword}&type=track`
+          "use own api key"
 
         );
         let convertedData =await data.json();
