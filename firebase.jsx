@@ -1,5 +1,5 @@
 const firebaseConfig = {
-    apiKey: "AIzaSyDIyLGjcTHckSYDeb4BUvlgL9oZVDji2w4",
+    apiKey: "",
     authDomain: "movie-382e8.firebaseapp.com",
     projectId: "movie-382e8",
     storageBucket: "movie-382e8.appspot.com",
